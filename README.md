@@ -2,72 +2,33 @@
 
 ## Introduction
 
-The Hawaii Zoning Atlas is a community-led data analysis of zoning and land use in the state inspired by the [Connecticut Zoning Atlas](https://www.desegregatect.org/atlas).
+The Hawaii Zoning Atlas (HZA) is a community-led data analysis of zoning and land use in the state inspired by the [Connecticut Zoning Atlas](https://www.desegregatect.org/atlas). Our goal is to end the housing affordability crisis in Hawaii by producing reliable data that motivates and informs proactive changes to housing and land use policy.
 
-## Core Data
+## How to Contribute
 
-Where possible, the source of record is the Hawaii Statewide GIS Program, which is updated regularly from County sources. See [Download GIS Data](https://planning.hawaii.gov/gis/download-gis-data-expanded/#015) for details.
+HZA volunteers gather virtually at Code for Hawaii meetings on the first 3 Mondays of each month, 6-7:30pm Hawaii time. We recommend attending the next meeting as a first step. [RSVP here](https://www.meetup.com/Code-for-Hawaii/) for the meeting link. These meetings are working sessions: we spend a few minutes at the beginning orienting new members, discussing needs and assigning tasks. Then we collaborate on these tasks during the meeting and update the project board at the end. If you would like to contribute but are unable to attend meetings, get in touch with Trey: gg3 at vt dot edu.
 
-### Zoning Maps
+We welcome volunteers with and without technical skills. Below are our 4 areas of activity, with descriptions of opportunities in each.
 
-- [State Land Use Boundaries](https://geoportal.hawaii.gov/datasets/HiStateGIS::state-land-use-districts/about)
+1) Research
+  - Searchers: track down the maps and laws that define special land use/zoning areas and define the rules for developing them
+  - Readers: read sections of the laws and answer comprehension questions about each area (e.g. does this area allow multi-family housing?)
+  - Data analysts: crunch the numbers to answer questions like "what percentage of land in the county allows 4+ units by right?"
+  
+2) Development
+  - Mapmakers/GIS: Build an interactive online map of the data collected and created by the Research team (the Atlas).
+  - Web developers: Build a website to host the map and serve as a hub for land use education and advocacy in the state.
+  - UX designers: Guide users in learning about land use issues, exploring the Atlas, and getting involved.
 
-- [Honolulu](https://geoportal.hawaii.gov/datasets/HiStateGIS::zoning-honolulu-zoning/about)
+3) Education (coming soon)
+  - Writers
+  - Social media 
+  - Graphic designers
 
-- [Maui](https://geoportal.hawaii.gov/datasets/HiStateGIS::zoning-county-of-maui/about)
+4) Advocacy (coming soon)
+  - Speakers
+  - Liaisons
 
-- [Hawaii](https://geoportal.hawaii.gov/datasets/HiStateGIS::zoning-hawaii-county/about)
+### Acknowledgements
 
-- [Kauai](https://geoportal.hawaii.gov/datasets/HiStateGIS::general-plan-county-of-kauai/about)
-
-### Zoning/Land Use Codes
-
-- [Honolulu Land Use Ordinance](https://www.honolulu.gov/ocs/roh/193-site-ocs-cat/975-roh-chapter-21.html)
-
-- [Maui Zoning Ordinance](https://library.municode.com/hi/county_of_maui/codes/code_of_ordinances?nodeId=TIT19ZO)
-
-- [Hawaii Zoning](https://www.planning.hawaiicounty.gov/home/showpublisheddocument/302520/637846767849370000)
-
-- [Kauai Comprehensive Zoning Ordinance](https://qcode.us/codes/kauaicounty/view.php?topic=iv-8)
-
-### Zoning Overlays
-
-- [HCDA Districts](https://geoportal.hawaii.gov/datasets/HiStateGIS::hawaii-community-development-authority-hcda-districts/about)
-
-- [Conservation District Subzones](https://planning.hawaii.gov/gis/download-gis-data-expanded/#015)
-
-- [Hawaiian Homelands](https://planning.hawaii.gov/gis/download-gis-data-expanded/#015)
-
-- [Special Management Areas](https://planning.hawaii.gov/gis/download-gis-data-expanded/#015)
-
-- Transit-Oriented Development on Oahu (TBD)
-
-- Crown/Ceded Lands (TBD)
-
-## Supplemental Data
-
-### Parcels
-
-- [Statewide](https://geoportal.hawaii.gov/datasets/HiStateGIS::parcels-hawaii-statewide/about)
-
-### Buildings
-
-- [Honolulu Building Footprints](https://honolulu-cchnl.opendata.arcgis.com/datasets/cchnl::building-footprints-cch/about)
-
-- TBD
-
-### Infrastructure
-
-### Electoral Districts
-
-- [TDB](https://geoportal.hawaii.gov/search?collection=Dataset&groupIds=4c2c00a1e9604959a00bf1648475d384)
-
-### Census Tracts
-
-- [TBD](https://geoportal.hawaii.gov/search?collection=Dataset&groupIds=f1bfcc0236a142108a0ba18f67e37e40)
-
-### Miscellaneous
-
-- [Golf Courses](https://planning.hawaii.gov/gis/download-gis-data-expanded/#015)
-
-- [Introduction to Zoning & Land Use in Hawaii](https://www.planning.hawaiicounty.gov/resources/resources-references/zoning-land-use)
+The Hawaii Zoning Atlas is developed in partnership with [Faith Action](https://www.faithactionhawaii.org/) and its HousingNow! task force, with support from [Code for Hawaii](http://www.codeforhawaii.org/).
